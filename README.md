@@ -17,6 +17,40 @@ This project showcases a collection of data analysis work and techniques using P
 - **Seaborn**: Statistical data visualization built on top of Matplotlib.
 - **Jupyter Notebook**: For creating and sharing data analysis projects.
 
+## Projects
+
+1. **Education Career Success Analysis**  
+   - Analyze the impact of education and career on success, and explore various factors influencing career growth.  
+   - File: `education_career_success.ipynb`
+
+2. **Food Order Analysis**  
+   - Explore and analyze food order data to gain insights into customer preferences, peak order times, and sales trends.  
+   - File: `food-order-analysis.ipynb`
+
+3. **MLBB Playstore Reviews Analysis**  
+   - Analyze Playstore reviews for the Mobile Legends: Bang Bang game, exploring user sentiments and feedback.  
+   - File: `mlbb-playstore-review.ipynb`
+
+4. **Simple Data Analysis**  
+   - A basic introduction to data analysis techniques with a sample dataset for learning purposes.  
+   - File: `simple-data.ipynb`
+
+## Requirements
+
+To run these notebooks, you'll need to install the following Python libraries:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
+You can install these libraries using pip:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn nltk
+```
+
 ## Important Note
 
 The datasets used in this portfolio are either publicly available or synthetic data created for learning purposes. Ensure to handle real-world datasets with respect to data privacy and ethics.
